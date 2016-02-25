@@ -1,3 +1,3 @@
 #GitHub
-**This is _'Jaipal Goswami'_**
->i am at git hub
+**This is _Jaipal Goswami_**
+>i am at 'git' hub
