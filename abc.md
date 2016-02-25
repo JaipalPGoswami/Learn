@@ -1,6 +1,9 @@
 #GitHub
 **This is _Jaipal Goswami_**
 
-'''
-i am at git hub
-'''
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
